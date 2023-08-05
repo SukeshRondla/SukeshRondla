@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukesh Reddy Rondla</h1>
 <h3 align="center">Lines of Code to Lines of Research: A Software Engineer's Academic Odyssey</h3>
 
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://twitter.com/sukeshrondla" target="blank"><img src="https://img.shields.io/twitter/follow/sukeshrondla?logo=twitter&style=for-the-badge" alt="sukeshrondla" /></a> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukeshrondla" alt="sukeshrondla" /></a> </p>
-
-
 - 🔭 I’m currently working on [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
 
 - 🌱 I’m currently learning **"DevOps + FrontEnd: Collaborative Efficiency & Interactivity"**
