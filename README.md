@@ -13,7 +13,7 @@
 
 - 📝 Penning down thoughts on [https://medium.com/@rondla.sukesh](https://medium.com/@rondla.sukesh)
 
-- 💬 Delve into the realms of **"Unveiling Data Structures and Algorithms"** with your queries
+- 💬 Exploring Open Source Contributions
 
 - 📫 Drop a line at **rondla.sukesh@gmail.com** to connect
   
