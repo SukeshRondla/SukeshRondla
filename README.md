@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sukesh Reddy Rondla</h1>
 <h3 align="center">Lines of Code to Lines of Research: A Software Engineer's Academic Odyssey</h3>
 
-- 🔭 Presently engaged in [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
+- **🔭 Currently working on:** [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
 
-- 🌱 Actively imbibing insights in **"DevOps + FrontEnd: Fostering Collaborative Efficiency & Heightened Interactivity"**
+- **🌱 Learning:** "DevOps + FrontEnd: Fostering Collaborative Efficiency & Heightened Interactivity"
 
-- 👯 Seeking synergy for [DSA](https://leetcode.com/SukeshReddyRondla/)
+- **👯 Collaborating on:** [DSA](https://leetcode.com/SukeshReddyRondla/)
 
-- 🤝 Open to assistance with refining [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
+- **🤝 Open to help with:** Improving [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
 
-- 👨‍💻 Surf through my endeavors at [www.sukeshrondla.com](www.sukeshrondla.com)
+- **👨‍💻 Portfolio:** [www.sukeshrondla.com](www.sukeshrondla.com)
 
-- 📝 Penning down thoughts on [https://medium.com/@rondla.sukesh](https://medium.com/@rondla.sukesh)
+- **📝 Blogging at:** [https://medium.com/@rondla.sukesh](https://medium.com/@rondla.sukesh)
 
-- 💬 Exploring Open Source Contributions
+- **💬 Exploring:** Open Source Contributions
 
-- 📫 Drop a line at **rondla.sukesh@gmail.com** to connect
-  
-- 📄 Know about my experiences [www.sukeshrondla.com](www.sukeshrondla.com)
+- **📫 Connect:** Email me at rondla.sukesh@gmail.com
+
+- **📄 Experience:** Learn more about my journey at [www.sukeshrondla.com](www.sukeshrondla.com)
 
 - ⚡ Fun fact **Ever heard of coding questions that make you feel like you're in a sci-fi movie? Imagine Neo from "The Matrix" dodging bullets – well, here you're dodging tricky syntax and logical twists! So, buckle up, coder, because these questions are like a wild ride through the coding cosmos! 🚀🔮👾**
 
