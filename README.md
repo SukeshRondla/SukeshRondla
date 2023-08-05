@@ -1,5 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sukesh Reddy Rondla</h1>
 <h3 align="center">Lines of Code to Lines of Research: A Software Engineer's Academic Odyssey</h3>
+
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207"
+
+add banner (use your links) :
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukeshrondla&label=Profile%20views&color=0e75b6&style=flat" alt="sukeshrondla" /> </p>
 
