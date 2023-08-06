@@ -7,8 +7,6 @@
 
 - **👯 Collaborating on:** [DSA](https://leetcode.com/SukeshReddyRondla/)
 
-- **🤝 Open to help with:** Improving [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
-
 - **👨‍💻 Portfolio:** [www.sukeshrondla.com](www.sukeshrondla.com)
 
 - **📝 Blogging at:** [https://medium.com/@rondla.sukesh](https://medium.com/@rondla.sukesh)
