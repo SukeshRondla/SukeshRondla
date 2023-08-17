@@ -17,8 +17,6 @@
 
 - **📄 Experience:** Learn more about my journey at [www.sukeshrondla.com](www.sukeshrondla.com)
 
-- ⚡ Fun fact **Ever heard of coding questions that make you feel like you're in a sci-fi movie? Imagine Neo from "The Matrix" dodging bullets – well, here you're dodging tricky syntax and logical twists! So, buckle up, coder, because these questions are like a wild ride through the coding cosmos! 🚀🔮👾**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sukeshreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sukeshreddy" height="30" width="40" /></a>
