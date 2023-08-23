@@ -9,8 +9,6 @@
 
 - **👨‍💻 Portfolio:** [www.sukeshrondla.com](www.sukeshrondla.com)
 
-- **📝 Blogging at:** [https://medium.com/@rondla.sukesh](https://medium.com/@rondla.sukesh)
-
 - **💬 Exploring:** Open Source Contributions
 
 - **📫 Connect:** Email me at rondla.sukesh@gmail.com
