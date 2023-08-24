@@ -11,7 +11,7 @@
 
 - **💬 Exploring:** Open Source Contributions
 
-- **📫 Connect:** Email me at rondla.sukesh@gmail.com
+- **📫 Connect:** Email me at rondla.sukesh@icloud.com
 
 - **📄 Experience:** Learn more about my journey at [www.sukeshrondla.com](www.sukeshrondla.com)
 
