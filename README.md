@@ -7,7 +7,7 @@
 
 - **👯 Collaborating on:** [DSA](https://leetcode.com/SukeshReddyRondla/)
 
-- **👨‍💻 Portfolio:** [www.sukeshrondla.com](www.sukeshrondla.com)
+- **👨‍💻 Portfolio:** [www.sukeshrondla.com](http://www.sukeshrondla.com)
 
 - **💬 Exploring:** Open Source Contributions
 
