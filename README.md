@@ -1,4 +1,3 @@
-![logo](https://github.com/SukeshRondla/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sukesh Reddy Rondla</h1>
 <h3 align="center">Lines of Code to Lines of Research: A Software Engineer's Academic Odyssey</h3>
 
