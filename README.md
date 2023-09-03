@@ -9,13 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
-- **🔭 Currently working on:** [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
-
 - **🌱 Learning:** "DevOps + FrontEnd: Fostering Collaborative Efficiency & Heightened Interactivity"
 
 - **👯 Collaborating on:** [DSA](https://leetcode.com/SukeshReddyRondla/)
-
-- **👨‍💻 Portfolio:** [www.sukeshrondla.com](http://www.sukeshrondla.com)
 
 - **💬 Exploring:** Open Source Contributions
 
