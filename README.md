@@ -1,20 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arjun C Vinod</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sukesh Rondla </h1>
  <!----Tag line------>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
+<p align="center"><a href="http://www.sukeshrondla.com">Portfolio↗️</a></p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Sukesh Reddy Rondla</h1>
-<h3 align="center">Lines of Code to Lines of Research: A Software Engineer's Academic Odyssey</h3>
 
 - **🔭 Currently working on:** [Microservices-on-AWS-with-Terraform](https://github.com/SukeshRondla/Microservices-on-AWS-with-Terraform)
 
