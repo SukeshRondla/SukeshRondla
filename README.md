@@ -7,12 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<! -- NEW -- !>
-<p align="center">
-    <a href="#">
-    <img img align="right" alt="GIF" src="sardonyx-bigdata-rowimg5.gif" alt="Welcome!" style="width:304px;height:277px;">
-    </a>
-</p>
 
 
 <!-----About Me --------->
