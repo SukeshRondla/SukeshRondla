@@ -1,8 +1,6 @@
 <!-- Profile Header -->
 # 👋 Hi, I'm Sukesh Reddy Rondla
 
-[Add a professional tagline here]
-
 <!-- Typing Animation for Tagline -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=[Add Your Profession];[Add Your Interests];[Any Other Information]" alt="Headline" />
