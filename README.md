@@ -1,3 +1,3 @@
-** Open Source Enthusiast | AR/VR Explorer | Vision PRO **
+🌟 Open Source Enthusiast | Exploring AR/VR | WEB | Mobile 🚀
 
-Crafting immersive experiences in AR/VR using Unity & more. Passionate about open-source and innovation. Let's build the future together! ✨
+Crafting innovative solutions in AR/VR, Web, and Mobile. Passionate about open-source collaboration and pushing boundaries. Let's create the future together! 💻✨
