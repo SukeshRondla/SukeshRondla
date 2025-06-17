@@ -1,1 +1,1 @@
-Open Source Enthusiast | Exploring AR/VR | WEB | Mobile 
+Open Source Enthusiast | Exploring AR/VR | ML | GEN AI
