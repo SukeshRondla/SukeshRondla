@@ -1,1 +1,1 @@
-Software Engineer | Open Source Enthusiast | Exploring AR/VR | ML | GEN AI
+Open Source Enthusiast | Exploring AR/VR | ML | GEN AI
